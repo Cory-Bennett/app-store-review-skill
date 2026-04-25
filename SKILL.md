@@ -3,7 +3,7 @@ name: app-store-review
 description: Evaluates code against Apple's App Store Review Guidelines. Use this skill when reviewing iOS, macOS, tvOS, watchOS, or visionOS app code (Swift, Objective-C, React Native, or Expo) to identify potential App Store rejection issues before submission. Triggers on tasks involving app review preparation, compliance checking, or App Store submission readiness.
 license: MIT
 metadata:
-  author: safaiyeh
+  author: Cory-Bennett
   version: "1.0.0"
 ---
 

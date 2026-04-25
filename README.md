@@ -9,14 +9,14 @@ An AI agent skill that exhaustively evaluates iOS, macOS, tvOS, watchOS, and vis
 ### Claude Code Plugin Marketplace
 
 ```bash
-/plugin marketplace add safaiyeh/app-store-review-skill
+/plugin marketplace add Cory-Bennett/app-store-review-skill
 /plugin install app-store-review@app-store-review
 ```
 
 ### skills.sh
 
 ```bash
-npx skills add safaiyeh/app-store-review-skill
+npx skills add Cory-Bennett/app-store-review-skill
 ```
 
 ## Setup
@@ -51,7 +51,7 @@ This skill works with any AI coding agent that supports the skills.sh standard:
 The skills CLI collects anonymous usage telemetry. To opt out:
 
 ```bash
-SKILLS_NO_TELEMETRY=1 npx skills add safaiyeh/app-store-review-skill
+SKILLS_NO_TELEMETRY=1 npx skills add Cory-Bennett/app-store-review-skill
 ```
 
 ## Structure

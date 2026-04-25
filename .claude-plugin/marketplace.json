@@ -1,7 +1,7 @@
 {
   "name": "app-store-review",
   "owner": {
-    "name": "safaiyeh"
+    "name": "Cory-Bennett"
   },
   "metadata": {
     "description": "Apple App Store Review Guidelines skill for Claude Code"
@@ -13,7 +13,7 @@
       "description": "Evaluates code against Apple's App Store Review Guidelines for iOS, macOS, tvOS, watchOS, and visionOS apps",
       "version": "1.0.0",
       "author": {
-        "name": "safaiyeh"
+        "name": "Cory-Bennett"
       },
       "category": "compliance",
       "tags": ["apple", "app-store", "review", "guidelines", "ios", "swift", "react-native"],
